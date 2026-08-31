@@ -1,6 +1,6 @@
 package week01;
 
-public class Day2 {
+public class Day02 {
     public static void main(String[] args) {
         double number1 = 12.5, number2 = 3.5, result;
 
